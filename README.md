@@ -19,7 +19,7 @@ This repo predicts the Sale Price of a flat/apartment using machine Learning alg
 - Install Python3<br/>
 - Run Final.py<br/>
 - Run app.py<br/>
-- Open the **Details.html** file from the Connect Directory<br/>
+- Open the **Details.html** file from the templates Directory<br/>
 - Choose the required specification and **SUBMIT**<br/>
 
 ## Contribute to XGBoost ##
