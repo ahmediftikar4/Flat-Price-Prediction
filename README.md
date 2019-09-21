@@ -16,8 +16,8 @@ This repo predicts the Sale Price of a flat/apartment using machine Learning alg
 
 ## How to RUN ##
 
--Install Python3
--Run Final.py
--Run app.py
--Open the **Details.html** file from the Connect Directory
--Choose the required specification and **SUBMIT**
+-Install Python3<br/>
+-Run Final.py<br/>
+-Run app.py<br/>
+-Open the **Details.html** file from the Connect Directory<br/>
+-Choose the required specification and **SUBMIT**<br/>
