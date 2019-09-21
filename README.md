@@ -5,14 +5,14 @@ This repo predicts the Sale Price of a flat/apartment using machine Learning alg
 **XGBoost** is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.
 
 ## Requirements ##
-**- Python3<br/>**
-**- Pandas<br/>**
-**- Numpy<br/>**
-**- XGBoost<br/>**
-**- SciPy<br/>**
-**- Scikit-Learn<br/>**
-**- Pickle<br/>**
-**- Joblib<br/>**
+- Python3<br/>
+- Pandas<br/>
+- Numpy<br/>
+- XGBoost<br/>
+- SciPy<br/>
+- Scikit-Learn<br/>
+- Pickle<br/>
+- Joblib<br/>
 
 ## How to RUN ##
 
