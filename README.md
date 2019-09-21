@@ -21,3 +21,6 @@ This repo predicts the Sale Price of a flat/apartment using machine Learning alg
 - Run app.py<br/>
 - Open the **Details.html** file from the Connect Directory<br/>
 - Choose the required specification and **SUBMIT**<br/>
+
+## Contribute to XGBoost ##
+XGBoost has been developed and used by a group of active community members. Your help is very valuable to make the package better for everyone. Checkout the [Community Page](https://xgboost.ai/community)
